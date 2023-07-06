@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio-React-Mod20/static/css/main.7dcda1fb.css",
+    "main.js": "/ReactPortfolio-React-Mod20/static/js/main.180a745a.js",
+    "static/media/bookhome.png": "/ReactPortfolio-React-Mod20/static/media/bookhome.62d948c16f70c9a00212.png",
+    "static/media/00-demo.gif": "/ReactPortfolio-React-Mod20/static/media/00-demo.b42d095e85f9652e6d7d.gif",
+    "static/media/my-image2.png": "/ReactPortfolio-React-Mod20/static/media/my-image2.3d64577d1bd83c465497.png",
+    "index.html": "/ReactPortfolio-React-Mod20/index.html",
+    "main.7dcda1fb.css.map": "/ReactPortfolio-React-Mod20/static/css/main.7dcda1fb.css.map",
+    "main.180a745a.js.map": "/ReactPortfolio-React-Mod20/static/js/main.180a745a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dcda1fb.css",
+    "static/js/main.180a745a.js"
+  ]
+}
